@@ -103,7 +103,9 @@ function App() {
         <h1 className="hero-title">
           Creativity is <span className="animated-text">{currentText}</span>.
         </h1>
-       
+        <p className="hero-subtitle">
+          We develop formulas to help brands make an impact.
+        </p>
       </section>
 
       {/* Main Detective Board */}
